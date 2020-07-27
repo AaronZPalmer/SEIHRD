@@ -5,11 +5,7 @@ This code is provided as a supplement to the paper titled "Optimal Control of CO
 
 All the code was written by Aaron Z. Palmer. Any questions on the content of the paper may be addressed to the corresponding author, Aaron Z. Palmer, at azp@math.ubc.ca. Please do not contact with requests to extend this code or any solicitations.
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+This program is free software: you can redistribute it and/or modify it under the terms of the BSD-3-Clause license.
 
 # Abstract
 The COVID-19 pandemic has posed a policy making crisis where efforts to slow down or end the pandemic conflict with economic priorities.  This paper provides mathematical analysis of optimal disease control policies with idealized compartmental models for disease propagation and simplistic models of social and economic costs.  The optimal control strategies are categorized as 'suppression' and 'mitigation' strategies and are analyzed in both deterministic and stochastic models.  In the stochastic model, vaccination at an uncertain time is taken into account.
